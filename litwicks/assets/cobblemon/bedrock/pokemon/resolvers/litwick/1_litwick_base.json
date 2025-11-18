@@ -10,7 +10,7 @@
       "layers": [
         {
           "name": "flame",
-          "texture": "cobblemon:textures/pokemon/litwick_black.png",
+          "texture": "cobblemon:textures/pokemon/litwick/litwick_black.png",
           "emissive": false
         },
 		{
@@ -474,5 +474,3 @@
     
   ]
 }
-
-
