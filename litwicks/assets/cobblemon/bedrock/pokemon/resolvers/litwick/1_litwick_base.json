@@ -6,7 +6,7 @@
       "aspects": ["candle-flame-black"],
       "poser": "cobblemon:litwick",
       "model": "cobblemon:litwick.geo",
-      "texture": "cobblemon:textures/pokemon/litwick/litwick.png",
+      "texture": "cobblemon:textures/pokemon/litwick/litwick_black.png",
       "layers": [
         {
           "name": "flame",
@@ -51,7 +51,7 @@
         },
 		{
 			"name": "emissive",
-			"texture":"cobblemon:textures/pokemon/litwick/litwick_black_emissive.png",
+			"texture":"cobblemon:textures/pokemon/litwick/litwick_cyan_emissive.png",
 			"emissive": true,
 			"translucent": true
 			
@@ -94,7 +94,7 @@
       ]
     },
 	{
-      "aspects": ["candle-flame-cyan", "shiny"],
+      "aspects": ["candle-flame-dark_blue", "shiny"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_dark_blue_shiny.png",
       "layers": [
         {
@@ -474,4 +474,5 @@
     
   ]
 }
+
 
