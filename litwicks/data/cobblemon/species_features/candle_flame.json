@@ -1,0 +1,22 @@
+{
+  "type": "choice",
+  "keys": ["candle_flame"],
+  "default": "random",
+  "choices": [
+    "black",
+    "cyan",
+    "dark_blue",
+	"dark_green",
+	"light_blue",
+	"light_gray",
+	"lime_green",
+	"magenta",
+	"orange",
+	"pink",
+	"purple",
+	"red",
+	"yellow"
+  ],
+  "isAspect": true,
+  "aspectFormat": "candle-flame-{{choice}}"
+}

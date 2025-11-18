@@ -1,0 +1,476 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "litwick-black-1",
+            "pokemon": "litwick candle-flame=black",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-black-2",
+            "pokemon": "litwick candle-flame=black",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-cyan-1",
+            "pokemon": "litwick candle-flame=cyan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-cyan-2",
+            "pokemon": "litwick candle-flame=cyan",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-dark_blue-1",
+            "pokemon": "litwick candle-flame=dark_blue",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-dark_blue-2",
+            "pokemon": "litwick candle-flame=dark_blue",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-dark_green-1",
+            "pokemon": "litwick candle-flame=dark_green",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-dark_green-2",
+            "pokemon": "litwick candle-flame=dark_green",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-light_blue-1",
+            "pokemon": "litwick candle-flame=light_blue",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-light_blue-2",
+            "pokemon": "litwick candle-flame=light_blue",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-light_gray-1",
+            "pokemon": "litwick candle-flame=light_gray",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-light_gray-2",
+            "pokemon": "litwick candle-flame=light_gray",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-lime_green-1",
+            "pokemon": "litwick candle-flame=lime_green",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-lime_green-2",
+            "pokemon": "litwick candle-flame=lime_green",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-magenta-1",
+            "pokemon": "litwick candle-flame=magenta",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-magenta-2",
+            "pokemon": "litwick candle-flame=magenta",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-orange-1",
+            "pokemon": "litwick candle-flame=orange",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-orange-2",
+            "pokemon": "litwick candle-flame=orange",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-pink-1",
+            "pokemon": "litwick candle-flame=pink",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-pink-2",
+            "pokemon": "litwick candle-flame=pink",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-purple-1",
+            "pokemon": "litwick candle-flame=purple",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-purple-2",
+            "pokemon": "litwick candle-flame=purple",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-red-1",
+            "pokemon": "litwick candle-flame=red",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-red-2",
+            "pokemon": "litwick candle-flame=red",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        },
+		{
+            "id": "litwick-yellow-1",
+            "pokemon": "litwick candle-flame=yellow",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_soul_fire"
+                ]
+            }
+        },
+        {
+            "id": "litwick-yellow-2",
+            "pokemon": "litwick candle-flame=yellow",
+            "presets": [
+                "mansion"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night"
+            }
+        }
+
+    ]
+}
