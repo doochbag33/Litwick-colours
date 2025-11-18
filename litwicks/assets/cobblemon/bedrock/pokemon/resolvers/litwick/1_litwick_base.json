@@ -30,7 +30,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_black_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_black_emissive_shiny.png",
@@ -41,14 +41,14 @@
       ]
     },
 	{
-      "aspects": ["candle-flame-cyan",],
+      "aspects": ["candle-flame-cyan"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_cyan.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_cyan.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_black_emissive.png",
@@ -66,7 +66,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_cyan_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_cyan_emissive_shiny.png",
@@ -76,14 +76,14 @@
 		}
       ]
     },{
-      "aspects": ["candle-flame-dark_blue",],
+      "aspects": ["candle-flame-dark_blue"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_dark_blue.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_dark_blue.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_dark_blue_emissive.png",
@@ -101,7 +101,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_dark_blue_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_dark_blue_emissive_shiny.png",
@@ -112,14 +112,14 @@
       ]
     },
 	{
-      "aspects": ["candle-flame-dark_green",],
+      "aspects": ["candle-flame-dark_green"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_dark_green.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_dark_green.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_dark_green_emissive.png",
@@ -137,7 +137,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_dark_green_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_dark_green_emissive_shiny.png",
@@ -148,14 +148,14 @@
       ]
     },
 	{
-      "aspects": ["candle-flame-light_blue",],
+      "aspects": ["candle-flame-light_blue"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_light_blue.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_light_blue.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_light_blue_emissive.png",
@@ -173,7 +173,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_light_blue_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_light_blue_emissive_shiny.png",
@@ -184,14 +184,14 @@
       ]
     },
 	{
-      "aspects": ["candle-flame-light_gray",],
+      "aspects": ["candle-flame-light_gray"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_light_gray.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_light_gray.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_light_gray_emissive.png",
@@ -209,7 +209,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_light_gray_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_light_gray_emissive_shiny.png",
@@ -220,14 +220,14 @@
       ]
     },
 	{
-      "aspects": ["candle-flame-lime_green",],
+      "aspects": ["candle-flame-lime_green"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_lime_green.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_lime_green.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_lime_green_emissive.png",
@@ -245,7 +245,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_lime_green_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_lime_green_emissive_shiny.png",
@@ -256,14 +256,14 @@
       ]
 	},
 	{
-      "aspects": ["candle-flame-magenta",],
+      "aspects": ["candle-flame-magenta"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_magenta.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_magenta.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_magenta_emissive.png",
@@ -281,7 +281,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_magenta_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_magenta_emissive_shiny.png",
@@ -292,14 +292,14 @@
       ]
 	},
 	{
-      "aspects": ["candle-flame-orange",],
+      "aspects": ["candle-flame-orange"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_orange.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_orange.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_orange_emissive.png",
@@ -317,7 +317,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_orange_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_orange_emissive_shiny.png",
@@ -328,14 +328,14 @@
       ]
 	},
 	{
-      "aspects": ["candle-flame-pink",],
+      "aspects": ["candle-flame-pink"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_pink.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_pink.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_pink_emissive.png",
@@ -353,7 +353,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_pink_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_pink_emissive_shiny.png",
@@ -364,14 +364,14 @@
       ]
 	},
 	{
-      "aspects": ["candle-flame-purple",],
+      "aspects": ["candle-flame-purple"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_purple.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_purple.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_purple_emissive.png",
@@ -389,7 +389,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_purple_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_purple_emissive_shiny.png",
@@ -400,14 +400,14 @@
       ]
 	},
 	{
-      "aspects": ["candle-flame-red",],
+      "aspects": ["candle-flame-red"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_red.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_red.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_red_emissive.png",
@@ -425,7 +425,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_red_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_red_emissive_shiny.png",
@@ -436,14 +436,14 @@
       ]
 	},
 	{
-      "aspects": ["candle-flame-yellow",],
+      "aspects": ["candle-flame-yellow"],
       "texture": "cobblemon:textures/pokemon/litwick/litwick_yellow.png",
       "layers": [
         {
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_yellow.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_yellow_emissive.png",
@@ -461,7 +461,7 @@
           "name": "flame",
           "texture": "cobblemon:textures/pokemon/litwick/litwick_yellow_shiny.png",
           "emissive": false
-        }
+        },
 		{
 			"name": "emissive",
 			"texture":"cobblemon:textures/pokemon/litwick/litwick_yellow_emissive_shiny.png",
@@ -474,3 +474,4 @@
     
   ]
 }
+
